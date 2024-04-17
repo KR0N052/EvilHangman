@@ -12,7 +12,7 @@ Evil Hangman **
 It seems like a typical hangman game: the computer thinks of a word, and the user tries to guess it by guessing letters. The trickery lies in the fact that the computer does not commit to any single word. Based on the users guesses, it always narrows down the set of possible words in a way that gives the least help to the user. For example, the user has gotten this far: abo__, and is thinking of the word "about". So they guess a 'u', and the computer says they lost because the word was "above"... Meanwhile, it didn't actually think of any word at all.
 
 ## Introduction:
-This program implements a simple guessing game using the C programming language. During the game, the user tries to guess a randomly selected word.
+This program implements what appears to be a simple guessing game using the C programming language. During the game, the user tries to guess a randomly "selected" word.
 
 ## System Requirements:
 To run the program, the following requirements must be met:
