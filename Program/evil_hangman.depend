@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1712226728 source:c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"iofunctions.h"
+	"structures.c"
+	"debugmalloc.h"
+	"functions.h"
+
+1712130282 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\iofunctions.h
+	"iofunctions.c"
+
+1712222853 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\iofunctions.c
+	<stdio.h>
+	"structures.c"
+
+1712222853 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\structures.c
+	<stdbool.h>
+
+1712217839 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\loadingfunctions.c
+	"structures.c"
+	<malloc.h>
+	<string.h>
+
+1712216630 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\closingfunctions.c
+	<malloc.h>
+	"structures.c"
+
+1712153286 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\closingfunctions.h
+	"closingfunctions.c"
+
+1712133052 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1712072523 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\loadingfunctions.h
+	"loadingfunctions.c"
+
+1712154000 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\functions.h
+	"structures.c"
+	"functions.c"
+
+1712154429 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\gonosz_akasztofa\functions.c
+
+1712665025 source:c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"iofunctions.h"
+	"structures.c"
+	"debugmalloc.h"
+	"functions.h"
+
+1712665272 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\iofunctions.h
+	"iofunctions.c"
+
+1712665214 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\iofunctions.c
+	<stdio.h>
+	"structures.c"
+
+1712664977 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\structures.c
+	<stdbool.h>
+
+1712133052 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1712665947 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\functions.h
+	"structures.c"
+	"functions.c"
+
+1712664998 c:\users\melch\onedrive\desktop\c\nagy házi bullshit\evil_hangman\functions.c
+
