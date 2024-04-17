@@ -15,7 +15,7 @@ Szokásos akasztófa játéknak tűnik: a gép gondol egy szót, a felhasználó
 
 ## Bevezetés
 
-Ez a program egy egyszerű kitalálós játékot valósít meg a C programozási nyelv segítségével. A játék során a felhasználó próbálja kitalálni egy véletlenszerűen kiválasztott szót.
+Ez a program egy külsőre egyszerű akasztófának tűnő játékot valósít meg a C programozási nyelv segítségével. A játék során a felhasználó próbál kitalálni egy véletlenszerűen "kiválasztott" szót.
 
 ## Rendszerkövetelmények
 
